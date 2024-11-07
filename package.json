@@ -1,0 +1,19 @@
+{
+  "name": "leaflet.cluster-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "karma start ./spec/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbydams/leaflet.cluster-ts.git"
+  },
+  "author": "Bobby Drake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobbydams/leaflet.cluster-ts/issues"
+  },
+  "homepage": "https://github.com/bobbydams/leaflet.cluster-ts#readme"
+}
